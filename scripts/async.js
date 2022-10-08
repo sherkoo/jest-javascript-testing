@@ -7,8 +7,8 @@ const makeFunction = (n) => {
     } else {
       reject('no it didnt work');
     }
-  }); // end promise
-}
+  }); // end promise 
+};
 
 const getResponse = async() => {
   try {
